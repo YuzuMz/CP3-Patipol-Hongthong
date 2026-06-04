@@ -4,7 +4,7 @@ usernameInput = input("Username: ")
 password = input("Password: ")
 
 if usernameInput == ("patipol") and password == ("7979"):
-    print("Welcome to",usernameInput,"!")
+    print("Welcome to IT Shop!")
     print(" สินค้า                      ราคา")
     print("1.Ram      :         2,000 THB")
     print("2.Mouse    :           250 THB")
