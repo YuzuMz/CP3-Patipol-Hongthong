@@ -16,16 +16,16 @@ if usernameInput == ("patipol") and password == ("7979"):
         Ram = int(input("จำนวนที่ต้องการ: "))
         price = int(2000)
         result = Ram * price
-        print(result)
+        print(result,"THB")
     elif usernameInput == 2:
         print("Mouse")
         Mouse = int(input("จำนวนที่ต้องการ: "))
         price = int(250)
         result = Mouse * price
-        print(result)
+        print(result,"THB")
     elif usernameInput == 3:
         print("Keyboard")
         Keyboard = int(input("จำนวนที่ต้องการ: "))
         price = int(599)
         result = Keyboard * price
-        print(result)
+        print(result,"THB")
